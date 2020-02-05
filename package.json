@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A decorator to purify actions and views in mobx-state-tree models ",
   "main": "lib/index.js",
-  "repository": "https://github.com/alakarteio/k-mst-purifier",
+  "repository": "https://github.com/unirakun/k-mst-purifier",
   "author": "Valentin Cocaud <v.cocaud@gmail.com>",
   "license": "MIT",
   "scripts": {
